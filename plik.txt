@@ -1,1 +1,4 @@
 Inna wersja pliku.
+
+
+dodanie nowej eksperymentalnej funkcjonalności.
